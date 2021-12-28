@@ -14,27 +14,27 @@ Page 4 Code :https://github.com/willamjonathan/FP_4 <br>
 Page 5 Code :https://github.com/willamjonathan/FP_5 <br>
   Live Link: https://willamjonathan.github.io/FP_5/ <br>
 <br>
-Page 6 a Code : <br>
+Page 6 a Code : https://github.com/willamjonathan/FP_6a<br>
   Live Link: https://willamjonathan.github.io/FP_6a/ <br>
 <br>
-Page 6 b Code : <br>
+Page 6 b Code : https://github.com/willamjonathan/FP_6b<br>
   Live Link: https://willamjonathan.github.io/FP_6b/ <br>
 <br>
-Page 6 c Code : <br>
+Page 6 c Code : https://github.com/willamjonathan/FP_6c <br>
   Live Link: https://willamjonathan.github.io/FP_6c/ <br>
 <br>
-Page 7 Code : <br>
+Page 7 Code : https://github.com/willamjonathan/FP_7<br>
   Live Link: https://willamjonathan.github.io/FP_7/ <br>
 <br>
-Page 8 Code : <br>
+Page 8 Code : https://github.com/willamjonathan/FP_8 <br>
   Live Link: https://willamjonathan.github.io/FP_8/ <br>
 <br>
-Page 9 Code : <br>
+Page 9 Code : https://github.com/willamjonathan/FP_9<br>
   Live Link: https://willamjonathan.github.io/FP_9/ <br>
 <br>
-Page 10 Code : <br>
+Page 10 Code : https://github.com/willamjonathan/FP_10 <br>
   Live Link: https://willamjonathan.github.io/FP_10/ <br>
 <br>
-Page 11 Code : <br>
+Page 11 Code : https://github.com/willamjonathan/FP_11 <br>
   Live Link: https://willamjonathan.github.io/FP_11/ <br>
 <br>
