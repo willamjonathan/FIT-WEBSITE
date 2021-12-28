@@ -2,10 +2,10 @@
 Page 1 Code: https://github.com/willamjonathan/RW_FIT/blob/main/index.html<br>
   Live link: https://willamjonathan.github.io/RW_FIT/<br>
 <br>
-Page 2 Code : <br>
+Page 2 Code : https://github.com/willamjonathan/FP_2 <br>
   Live Link:https://willamjonathan.github.io/FP_2/ <br>
 <br>
-Page 3 Code : <br>
+Page 3 Code : https://github.com/willamjonathan/FP_3 <br>
   Live Link: https://willamjonathan.github.io/FP_3/<br>
 <br>
 Page 4 Code : <br>
