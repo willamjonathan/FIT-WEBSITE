@@ -1,6 +1,6 @@
 <h1>The Live Link and Code of each page</h1>
-Page 1 Code: <br>
-  Live link: <br>
+Page 1 Code: https://github.com/willamjonathan/RW_FIT/blob/main/index.html<br>
+  Live link: https://willamjonathan.github.io/RW_FIT/<br>
 <br>
 Page 2 Code : <br>
   Live Link:https://willamjonathan.github.io/FP_2/ <br>
