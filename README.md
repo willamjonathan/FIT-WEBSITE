@@ -39,7 +39,6 @@ Page 11 Code : https://github.com/willamjonathan/FP_11 <br>
   Live Link: https://willamjonathan.github.io/FP_11/ <br>
 <br>
 For the photo : https://github.com/willamjonathan/hello-github-actions/tree/main/forfp <br>
-https://github.com/willamjonathan/hello-github-actions/blob/main/istockphoto-1258586742-170667a.jpg<br>
 BMI table:<br>
 https://github.com/willamjonathan/hello-github-actions/blob/main/bmi%20table.jpg<br>
 background login page (1):<br>
