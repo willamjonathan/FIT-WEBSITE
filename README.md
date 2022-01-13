@@ -43,4 +43,6 @@ https://github.com/willamjonathan/hello-github-actions/blob/main/istockphoto-125
 BMI table:<br>
 https://github.com/willamjonathan/hello-github-actions/blob/main/bmi%20table.jpg<br>
 background login page (1):<br>
-https://github.com/willamjonathan/hello-github-actions/blob/main/exercise-png-11553981592o5piw0mrxs.png
+https://github.com/willamjonathan/hello-github-actions/blob/main/exercise-png-11553981592o5piw0mrxs.png<br>
+nutritionist:<br>
+https://github.com/willamjonathan/hello-github-actions/blob/main/istockphoto-1258586742-170667a.jpg<br>
