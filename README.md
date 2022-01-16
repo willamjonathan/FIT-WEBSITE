@@ -17,9 +17,13 @@ Page 5 Code :https://github.com/willamjonathan/FP_5 <br>
 Page 6 a Code : https://github.com/willamjonathan/FP_6a<br>
   Live Link: https://willamjonathan.github.io/FP_6a/ <br>
 <br>
-Page 6 b Code : https://github.com/willamjonathan/FP_6b<br>
+Additional info : its actually the same with 6a , the only diff is the title of the page <br>
+therefore, I didn't put detailed commenting there.<br>
+Page 6 b Code : https://github.com/willamjonathan/FP_6b<br> 
   Live Link: https://willamjonathan.github.io/FP_6b/ <br>
 <br>
+Additional info : its actually the same with 6a , the only diff is the title of the page <br>
+therefore, I didn't put detailed commenting there.<br>
 Page 6 c Code : https://github.com/willamjonathan/FP_6c <br>
   Live Link: https://willamjonathan.github.io/FP_6c/ <br>
 <br>
